@@ -1,0 +1,15 @@
+C:\Users\orockenbach\Desktop\ConfigureLocalTime\ConfigureLocalTime\bin\Debug\netcoreapp3.1\ConfigureLocalTime.exe
+C:\Users\orockenbach\Desktop\ConfigureLocalTime\ConfigureLocalTime\obj\Debug\netcoreapp3.1\ConfigureLocalTime.csprojAssemblyReference.cache
+C:\Users\orockenbach\Desktop\ConfigureLocalTime\ConfigureLocalTime\obj\Debug\netcoreapp3.1\ConfigureLocalTime.AssemblyInfoInputs.cache
+C:\Users\orockenbach\Desktop\ConfigureLocalTime\ConfigureLocalTime\obj\Debug\netcoreapp3.1\ConfigureLocalTime.AssemblyInfo.cs
+C:\Users\orockenbach\Desktop\ConfigureLocalTime\ConfigureLocalTime\bin\Debug\netcoreapp3.1\ConfigureLocalTime.deps.json
+C:\Users\orockenbach\Desktop\ConfigureLocalTime\ConfigureLocalTime\bin\Debug\netcoreapp3.1\ConfigureLocalTime.runtimeconfig.json
+C:\Users\orockenbach\Desktop\ConfigureLocalTime\ConfigureLocalTime\bin\Debug\netcoreapp3.1\ConfigureLocalTime.runtimeconfig.dev.json
+C:\Users\orockenbach\Desktop\ConfigureLocalTime\ConfigureLocalTime\bin\Debug\netcoreapp3.1\ConfigureLocalTime.dll
+C:\Users\orockenbach\Desktop\ConfigureLocalTime\ConfigureLocalTime\bin\Debug\netcoreapp3.1\ConfigureLocalTime.pdb
+C:\Users\orockenbach\Desktop\ConfigureLocalTime\ConfigureLocalTime\bin\Debug\netcoreapp3.1\TimeZoneConverter.dll
+C:\Users\orockenbach\Desktop\ConfigureLocalTime\ConfigureLocalTime\obj\Debug\netcoreapp3.1\ConfigureLocalTime.csproj.CoreCompileInputs.cache
+C:\Users\orockenbach\Desktop\ConfigureLocalTime\ConfigureLocalTime\obj\Debug\netcoreapp3.1\ConfigureLocalTime.csproj.CopyComplete
+C:\Users\orockenbach\Desktop\ConfigureLocalTime\ConfigureLocalTime\obj\Debug\netcoreapp3.1\ConfigureLocalTime.dll
+C:\Users\orockenbach\Desktop\ConfigureLocalTime\ConfigureLocalTime\obj\Debug\netcoreapp3.1\ConfigureLocalTime.pdb
+C:\Users\orockenbach\Desktop\ConfigureLocalTime\ConfigureLocalTime\obj\Debug\netcoreapp3.1\ConfigureLocalTime.genruntimeconfig.cache
